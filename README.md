@@ -13,7 +13,7 @@ Ensure you have Node.js and Yarn installed on your system.
 
 ## Clone the Repository
 
-- git clone https://github.com/andythegril/spa-front.git
+- [git clone https://github.com/andythegril/spa-front.git](https://github.com/dna246/spa-front.git)
 
 - cd your-project-directory
 
